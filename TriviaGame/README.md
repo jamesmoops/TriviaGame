@@ -1,3 +1,3 @@
-  // Simple Javascript trivia game
+ // Simple Javascript trivia game
 
  This simple trivia game allows the user to pick between three choices, "a", "b" or "c". After the user picks the multiple choice question it slides to the next set of   questions and so on. If the answer is correct, it increases the level of correct answers by 1. It also styles the correct answer to "lightgreen". If the answer is blank or incorrect it will increase the amount of incorrect answers by 1 and cover the answer in red. The quiz uses buttons to move from each slide to the next. By the time you reach the end of the quiz, it will display at the bottom the amount correct out of 3. 

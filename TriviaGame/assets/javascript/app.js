@@ -60,7 +60,7 @@
             );
         });
 
-        // combine outlist into a string
+        // combine output into a string
         quizContainer.innerHTML = output.join("");
     }
 
@@ -143,5 +143,3 @@
     previousButton.addEventListener("click", showPreviousSlide);
     nextButton.addEventListener("click", showNextSlide);
 })();
-
-// Got relatively confused toward the end from 95 to the rest. Was able to get the right code but not able to make live, will come to office hours to seek how to get it all going properly. 
